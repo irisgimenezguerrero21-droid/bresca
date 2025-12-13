@@ -1,4 +1,4 @@
-# Vue 3 + Vite
+# Bresca
 
 Descripció:  
 Bresca és una obra de Net Art desenvolupada amb Vue.js i Vite. Simula una habitació virtual minimalista i buida en perspectiva 3D, on es superposen imatges 2D de mobles de disseny contemporani de luxe. Explora la fusió entre realitats tangibles i digitals, criticant irònicament la bombolla social del disseny elitista.   
