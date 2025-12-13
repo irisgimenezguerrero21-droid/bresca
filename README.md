@@ -14,21 +14,13 @@ Passa el ratolí per les imatges a les pàgines "Sobre nosaltres" i "Contacte" p
 El lloc inclou funcions d’accessibilitat com text alternatiu, navegació per teclat i contrast suficient.
 
 Tecnologies:
-
 Framework: Vue 3
-
 Bundler: Vite
-
 Navegació: Vue Router
-
 Dades: Fitxer JSON amb la llista de mobles
-
 Components: Component personalitzat Moble.vue per mostrar i interactuar amb mobles
-
 Estils: CSS personalitzat amb estils globals
-
 Animacions: CSS/JS natius per canvis de color, hovers i escales (sense GSAP per mantenir el minimalisme)
 
 Autores:
-Iris Gimenez Guerrero
-Jana Cases Vendrell
+Iris Gimenez Guerrero i Jana Cases Vendrell
