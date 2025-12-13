@@ -2,7 +2,6 @@
 
 Descripció:
 Bresca és una obra de Net Art desenvolupada amb Vue.js i Vite. Simula una habitació virtual minimalista i buida en perspectiva 3D, on es superposen imatges 2D de mobles de disseny contemporani de luxe. Explora la fusió entre realitats tangibles i digitals, criticant irònicament la bombolla social del disseny elitista. L’usuari pot interactuar fent clic o hover per canviar colors, simbolitzant una personalització temporal d’objectes inaccessibles. El projecte invita a reflexionar sobre el desig, la possessió i les barreres econòmiques en el món digital.
-Inspirada en artistes com Harm van den Dorpel i Rafael Rozendaal, evoluciona d’una pràctica anterior comercial cap a una experiència crítica i irònica.
 
 Objectius:
 Explorar les possibilitats tècniques del Net Art per generar interaccions senzilles però significatives.
