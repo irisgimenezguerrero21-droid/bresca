@@ -8,7 +8,7 @@ Objectius:
 2) Criticar l’exclusivitat dels mobles de luxe com a símbols d’estatus.
 3) Fomentar la reflexió sobre realitats coexistents en espais digitals.
 
-Ús:
+Ús:  
 Navega a la pàgina principal per interactuar amb l’habitació virtual fent clic als mobles per canviar-ne el color aleatòriament.  
 Passa el ratolí per les imatges a les pàgines "Sobre nosaltres" i "Contacte" per canviar el color.  
 El lloc inclou funcions d’accessibilitat com text alternatiu, navegació per teclat i contrast suficient.  
